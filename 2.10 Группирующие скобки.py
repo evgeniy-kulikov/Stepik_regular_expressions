@@ -101,15 +101,3 @@ res = re.findall(regex, string)
 
 
 
-
-
-
-# Task 0
-"""
-
-Input:  
-Output: 
-"""
-regex = r''
-res = re.findall(regex, string)
-
