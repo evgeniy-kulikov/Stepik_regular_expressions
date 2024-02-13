@@ -1,8 +1,19 @@
-"""
+"""Test"""
 
+import re
+string = ''
+
+# Task 0
+"""
+Найти в тексте
 Input:  *
 Output: *
 """
+regex = r''
+res = re.findall(regex, string)
+
+
+
 
 # Task 0
 """
