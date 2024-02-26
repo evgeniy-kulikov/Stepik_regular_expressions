@@ -67,7 +67,6 @@ res = re.sub(pattern, replace, string)
 print(res)
 
 
-
 # Task 03
 """
 Нужно найти все ФИО в тексте и заменить их на строку ФИО.
@@ -92,3 +91,5 @@ replace = 'ФИО'
 string = input()
 res = re.sub(pattern, replace, string)
 print(res)
+
+# Для f-строк экранирование фигурных скобок {abc} делается так {{abc}}
